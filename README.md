@@ -1,5 +1,5 @@
-<h1 align="center"> NestJS + TypeORM </h1>
-<p align="center"> Project to training with NestJS and TypeORM </p>
+<h1 align="center"> NestJS + Mongoose </h1>
+<p align="center"> Project to training with NestJS and Mongoose </p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luanoliveira98/nestjs-mongoose?color=%2304D361"/>
